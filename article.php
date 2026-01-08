@@ -1,6 +1,3 @@
-<!-- Muhammad Iqbal(A11.2024.15747)-->
- <!-- Muhammad Iqbal(A11.2024.15747)-->
-  <!-- Muhammad Iqbal(A11.2024.15747)--> 
 <div class="container">
     		<div class="row mb-2">
         <div class="col-md-6">
@@ -211,7 +208,3 @@ if (isset($_POST['hapus'])) {
     $conn->close();
 }
 ?>
-
-<!-- Muhammad Iqbal(A11.2024.15747)-->
- <!-- Muhammad Iqbal(A11.2024.15747)-->
-  <!-- Muhammad Iqbal(A11.2024.15747)-->
