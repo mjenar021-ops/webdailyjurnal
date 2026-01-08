@@ -1,6 +1,3 @@
-<!-- Muhammad Iqbal(A11.2024.15747)-->
- <!-- Muhammad Iqbal(A11.2024.15747)-->
-  <!-- Muhammad Iqbal(A11.2024.15747)-->
 <?php
 ///memulai session atau melanjutkjan session yang sudah ada
 session_start();
@@ -157,6 +154,3 @@ if(isset($_SESSION['username'])){
     ></script>
     </body>
 </html>
-<!-- Muhammad Iqbal(A11.2024.15747)-->
- <!-- Muhammad Iqbal(A11.2024.15747)-->
-  <!-- Muhammad Iqbal(A11.2024.15747)-->
