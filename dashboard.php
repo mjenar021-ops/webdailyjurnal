@@ -1,6 +1,3 @@
-<!-- Muhammad Iqbal(A11.2024.15747)-->
- <!-- Muhammad Iqbal(A11.2024.15747)-->
-  <!-- Muhammad Iqbal(A11.2024.15747)-->
 <?php
 //query untuk mengambil data article
 $sql1 = "SELECT * FROM article ORDER BY tanggal DESC";
@@ -41,6 +38,3 @@ print_r($jumlah_article);
         </div>
     </div> 
 </div>
-<!-- Muhammad Iqbal(A11.2024.15747)-->
- <!-- Muhammad Iqbal(A11.2024.15747)-->
-  <!-- Muhammad Iqbal(A11.2024.15747)-->
